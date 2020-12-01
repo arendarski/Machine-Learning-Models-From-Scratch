@@ -1,11 +1,12 @@
 # Machine-Learning-Models-From-Scratch
 
-#### [MLP Neural Network using Numpy](https://github.com/arendarski/getCurrentAssetPrice)
+#### [MLP Neural Network using Numpy](https://github.com/arendarski/Machine-Learning-Models-From-Scratch/blob/main/simple%20mlp%20neural%20network%20using%20numpy.ipynb)
+ Simple MLP NN with the following design:
  - input layer, dimension=2, 
  - 1 hidden layer, activation function = sigmoid,
 - output layer, activation function = sigmoid.
 
-#### [Logistic Regression using Numpy](https://github.com/arendarski/getTickers)
+#### [Logistic Regression using Numpy](https://github.com/arendarski/Machine-Learning-Models-From-Scratch/blob/main/logistic%20regression%20using%20numpy.ipynb)
 - Logostic regression model developed using numpy with gradient descent as optimisation tool.
 
 #### [K-means Algorithm using Numpy/Scipy](https://github.com/arendarski/Machine-Learning-Models-From-Scratch/blob/main/k-means_using%20numpy%20and%20scipy.ipynb)
