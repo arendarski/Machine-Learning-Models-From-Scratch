@@ -5,8 +5,8 @@
  - 1 hidden layer, activation function = sigmoid,
 - output layer, activation function = sigmoid.
 
-#### [Logostic Regression using Numpy](https://github.com/arendarski/getTickers)
-- downloads a list of tickers of selected index from stooq.com
+#### [Logistic Regression using Numpy](https://github.com/arendarski/getTickers)
+- Logostic regression model developed using numpy with gradient descent as optimisation tool.
 
-#### [K-means Algorithm using Numpy/Scipy](https://github.com/arendarski/getStooqData)
--  downloads historical data for a selected security from www.stooq.com as csv files, parse them into a dataframe and return pandas dataframe with OHLC prices and Date as index.
+#### [K-means Algorithm using Numpy/Scipy](https://github.com/arendarski/Machine-Learning-Models-From-Scratch/blob/main/k-means_using%20numpy%20and%20scipy.ipynb)
+-  The most popular clustering algorithm - k-means developed using only numpy and scipy.  
