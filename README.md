@@ -11,3 +11,8 @@
 
 #### [K-means Algorithm using Numpy/Scipy](https://github.com/arendarski/Machine-Learning-Models-From-Scratch/blob/main/k-means_using%20numpy%20and%20scipy.ipynb)
 -  The most popular clustering algorithm - k-means developed using only numpy and scipy.  
+
+#### [Liniar Regression in Excel (without using solver)](https://github.com/arendarski/Machine-Learning-Models-From-Scratch/blob/main/k-means_using%20numpy%20and%20scipy.ipynb)
+- Gradient Descent with 1 parameter.
+- Gradient Descent with 3 parameters.
+- Matrix Multiplication.
