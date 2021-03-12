@@ -6,6 +6,12 @@
  - 1 hidden layer, activation function = sigmoid,
  - output layer, activation function = sigmoid.
 
+#### [MLP Neural Network in Excel](https://github.com/arendarski/Machine-Learning-Models-From-Scratch/blob/main/MLP%20Neural%20Network%20in%20Excel%20(without%20solver).xlsx)
+ Simple MLP NN with the following design:
+ - input layer, dimension=2, 
+ - 1 hidden layer, activation function = sigmoid,
+ - output layer, activation function = sigmoid.
+
 #### [Logistic Regression using Numpy](https://github.com/arendarski/Machine-Learning-Models-From-Scratch/blob/main/logistic%20regression%20using%20numpy.ipynb)
 - Logistic regression model developed using numpy with gradient descent as optimisation tool.
 
